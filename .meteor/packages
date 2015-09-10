@@ -45,6 +45,8 @@ rocketchat:webrtc
 #rocketchat:hubot
 #rocketchat:irc
 
+rocketchat:importer-test
+
 konecty:change-case
 konecty:delayed-task
 konecty:mongo-counter

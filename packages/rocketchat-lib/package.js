@@ -19,6 +19,7 @@ Package.onUse(function(api) {
 	api.addFiles('lib/core.coffee');
 	api.addFiles('lib/callbacks.coffee');
 	api.addFiles('lib/slashCommand.coffee');
+	api.addFiles('lib/importTool.coffee');
 
 	api.addFiles('settings/lib/settings.coffee');
 	api.addFiles('settings/lib/rocketchat.coffee');
